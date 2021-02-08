@@ -1,0 +1,68 @@
+rifleman.png
+size: 24, 231
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Down
+  rotate: false
+  xy: 0, 168
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: -1
+Hidden
+  rotate: false
+  xy: 0, 0
+  size: 8, 7
+  orig: 8, 7
+  offset: 0, 0
+  index: 1
+Hidden
+  rotate: false
+  xy: 0, 109
+  size: 23, 12
+  orig: 23, 12
+  offset: 0, 0
+  index: 2
+Hidden
+  rotate: false
+  xy: 0, 121
+  size: 24, 16
+  orig: 24, 16
+  offset: 0, 0
+  index: 3
+Misc
+  rotate: false
+  xy: 8, 0
+  size: 16, 32
+  orig: 16, 32
+  offset: 0, 0
+  index: -1
+Straight
+  rotate: false
+  xy: 0, 199
+  size: 24, 32
+  orig: 24, 32
+  offset: 0, 0
+  index: 1
+Straight
+  rotate: false
+  xy: 0, 137
+  size: 24, 31
+  orig: 24, 31
+  offset: 0, 0
+  index: 2
+Up
+  rotate: false
+  xy: 0, 32
+  size: 18, 39
+  orig: 18, 39
+  offset: 0, 0
+  index: 1
+Up
+  rotate: false
+  xy: 0, 71
+  size: 18, 38
+  orig: 18, 38
+  offset: 0, 0
+  index: 2
